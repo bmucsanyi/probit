@@ -1,0 +1,43 @@
+wrn-cifar10-het-softmax-mf-test ECE
+  - best_id_test_mc_10_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.033623
+    - 0.032229
+    - 0.033652
+    - 0.033926
+    - 0.034921
+  - best_id_test_mc_100_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.033596
+    - 0.032853
+    - 0.033695
+    - 0.034868
+    - 0.034837
+  - best_id_test_mc_1000_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.033454
+    - 0.032376
+    - 0.034091
+    - 0.034893
+    - 0.034528
+  - best_id_test_mean_field_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.033919
+    - 0.032848
+    - 0.034356
+    - 0.035539
+    - 0.035148
+  - best_id_test_laplace_bridge_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.038951
+    - 0.043718
+    - 0.041781
+    - 0.042907
+    - 0.042611
+
+wrn-cifar10-het-sigmoid-test ECE
+  - best_id_test_mc_10_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.029919
+    - 0.028293
+    - 0.027083
+  - best_id_test_mc_100_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+  - best_id_test_link_sigmoid_output_one_minus_max_probs_of_bma_ece_hard_bma_correctness_original
+    - 0.030051
+    - 0.028238
+    - 0.026914
+  ...

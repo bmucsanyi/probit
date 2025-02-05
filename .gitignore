@@ -1,0 +1,15 @@
+# Extensions
+*.ipynb
+*.egg-info
+*.pyc
+
+# Files
+.envrc
+.DS_Store
+
+# Folders
+.ruff_cache
+.venv
+CIFAR10H
+cifar-10-batches-py
+plots
